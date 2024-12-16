@@ -33,8 +33,17 @@ function NavBar() {
       fixed="top"
       expand="md"
       className={navColour ? "sticky" : "navbar"}
+
     >
       <Container>
+        <Navbar.Brand href="/" className="d-flex">
+          <img
+            src="https://printassist.vercel.app/sonic.png"
+            className="img-fluid logo"
+            alt="brand"
+            style={{ width: '2000px', height: '1000px' }} // Adjust the values as needed
+          />
+        </Navbar.Brand>
         <Navbar.Brand href="/" className="d-flex">
         </Navbar.Brand>
         <Navbar.Toggle
@@ -77,16 +86,6 @@ function NavBar() {
                 Services
               </Nav.Link>
             </Nav.Item>
-
-            {/* <Nav.Item>
-              <Nav.Link
-                href=""
-                target="_blank"
-                rel="noreferrer"
-              >
-                <ImBlog style={{ marginBottom: "2px" }} /> Contact
-              </Nav.Link>
-            </Nav.Item> */}
 
             <Nav.Item className="fork-btn">
             </Nav.Item>
