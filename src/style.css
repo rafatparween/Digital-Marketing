@@ -1,7 +1,7 @@
 html {
   --section-background-color: linear-gradient(
     to bottom left,
-    rgba(102, 147, 190, 0.582),
+    rgba(172, 102, 190, 0.582),
     rgba(56, 45, 87, 0.904)
   );
 
@@ -30,7 +30,7 @@ button:focus {
   height: 100%;
   z-index: 999999;
   background-color: #205f9b;
-  background-image: url(./Assets/pre.svg);
+  /* background-image: url(./Assets/pre.svg); */
   background-repeat: no-repeat;
   background-position: center;
 }
