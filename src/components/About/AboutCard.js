@@ -8,12 +8,12 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Welcome to <span className="purple">Micro Sonic</span>, a leading company in the field of{" "}
-            <span className="purple">Digital Marketing</span>. At Micro Sonic, we specialize in driving business growth through innovative and data-driven marketing strategies. Our services include Search Engine Optimization (SEO), Social Media Marketing, Paid Advertising Campaigns, and Content Marketing, all designed to enhance brand visibility and engagement across digital platforms.
+            Welcome to <span className="purple">Micro Sonic Repair</span>, a leading company in the field of{" "}
+            <span className="purple">Digital Marketing</span>. At Micro Sonic Repair, we specialize in driving business growth through innovative and data-driven marketing strategies. Our services include Search Engine Optimization (SEO), Social Media Marketing, Paid Advertising Campaigns, and Content Marketing, all designed to enhance brand visibility and engagement across digital platforms.
             <br />
             With a strong focus on delivering measurable results, we leverage the power of digital tools to help businesses achieve their marketing goals and connect with their target audience effectively.
             <br />
-            Our team at Micro Sonic is passionate about staying ahead of the curve, constantly exploring new trends and technologies to ensure that our clients' marketing strategies remain innovative and impactful.
+            Our team at Micro Sonic Repair is passionate about staying ahead of the curve, constantly exploring new trends and technologies to ensure that our clients' marketing strategies remain innovative and impactful.
             <br />
             <br />
             Some of the core services we provide include:

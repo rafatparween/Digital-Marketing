@@ -13,7 +13,7 @@ function Services() {
         </h1>
 
         <p style={{ color: "white" }}>
-          At <span className="purple">Micro Sonic</span>, we specialize in providing innovative <span className="purple">Digital Marketing Solutions</span> that help businesses grow, engage with their audience, and achieve measurable results online. 
+          At <span className="purple">Micro Sonic Repair</span>, we specialize in providing innovative <span className="purple">Digital Marketing Solutions</span> that help businesses grow, engage with their audience, and achieve measurable results online. 
           Our suite of products is designed to streamline digital marketing efforts through advanced tools in areas like SEO, Social Media Marketing, Paid Ads, and Analytics.
           <br />
           We focus on delivering cutting-edge marketing automation, content management, and real-time analytics solutions that empower businesses to stay ahead in the digital landscape.

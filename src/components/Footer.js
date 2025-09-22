@@ -17,7 +17,7 @@ function Footer() {
           <h3>The information contained here is subject to change without notice</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} Micro Sonic</h3>
+          <h3>Copyright © {year} Micro Sonic Repair</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
