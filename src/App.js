@@ -15,6 +15,8 @@ import ScrollToTop from "./components/ScrollToTop";
 import "./style.css";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
+import PrivacyPolicy from "./components/pages/PrivacyPolicy";
+import Terms from "./components/pages/Terms";
 
 function App() {
   const [load, upadateLoad] = useState(true);
@@ -37,6 +39,8 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/services" element={<Services />} />
           <Route path="/about" element={<About />} />
+          <Route path="/privacypolicy" element={<PrivacyPolicy />} />
+          <Route path="/terms" element={<Terms />} />
         
           <Route path="*" element={<Navigate to="/"/>} />
         </Routes>
