@@ -3,7 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 const PrivacyPolicy = () => {
   return (
-    <div className="container py-5">
+    <div className="container py-5" style={{ marginTop: 30 }}>
       <div className="row justify-content-center">
         <div className="col-lg-10">
           <div className="card shadow-lg border-0 rounded-lg">

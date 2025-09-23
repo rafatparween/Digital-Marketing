@@ -17,6 +17,8 @@ import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import PrivacyPolicy from "./components/pages/PrivacyPolicy";
 import Terms from "./components/pages/Terms";
+import Disclaimer from "./components/pages/Disclaimer";
+import ContactUs from "./components/pages/ContactUs";
 
 function App() {
   const [load, upadateLoad] = useState(true);
@@ -41,6 +43,8 @@ function App() {
           <Route path="/about" element={<About />} />
           <Route path="/privacypolicy" element={<PrivacyPolicy />} />
           <Route path="/terms" element={<Terms />} />
+          <Route path="/Disclaimer" element={<Disclaimer />} />
+          <Route path="/contactus" element={<ContactUs/>} />
         
           <Route path="*" element={<Navigate to="/"/>} />
         </Routes>

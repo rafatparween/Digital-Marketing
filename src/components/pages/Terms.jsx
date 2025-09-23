@@ -3,19 +3,18 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 const Terms = () => {
   return (
-    <div className="container py-5">
+    <div className="container py-5" style={{ marginTop: 30 }}>
       <div className="row justify-content-center">
         <div className="col-lg-10">
           <div className="card shadow-lg border-0 rounded-lg">
-            <div className="card-header bg-gradient-primary text-white text-center py-4">
-              <div className="d-flex align-items-center justify-content-center mb-3">
-                <i className="fas fa-file-contract fa-3x me-3"></i>
-                <h1 className="display-4 fw-bold mb-0">Terms of Service</h1>
-              </div>
-              <p className="lead mb-0">Effective Date: {new Date().toLocaleDateString()}</p>
-              <p className="h5 mt-2">Company Name: [Your Company Name]</p>
-            </div>
-            
+           <div className="card-header bg-gradient-primary text-black text-center py-4">
+  <div className="d-flex align-items-center justify-content-center mb-3">
+    <i className="fas fa-file-contract fa-3x me-3"></i>
+    <h1 className="display-4 fw-bold mb-0">Terms of Service</h1>
+  </div>
+  <p className="lead mb-0">Effective Date: {new Date().toLocaleDateString()}</p>
+  <p className="h5 mt-2">Company Name:Micro Sonic Repair</p>
+</div>
             <div className="card-body p-4 p-md-5">
               <div className="alert alert-info border-0 mb-5">
                 <div className="d-flex">
@@ -44,7 +43,7 @@ const Terms = () => {
                   Services Provided
                 </h2>
                 <p className="fs-5">
-                  [Your Company Name] provides digital marketing, SEO, advertising management, 
+                  Micro Sonic Repair provides digital marketing, SEO, advertising management, 
                   web development, and related services as described on our website.
                 </p>
               </div>
@@ -105,7 +104,7 @@ const Terms = () => {
                 </h2>
                 <p className="fs-5">
                   All content, materials, logos, and strategies created by us remain the property 
-                  of [Your Company Name] unless otherwise agreed in writing.
+                  of Micro Sonic Repair unless otherwise agreed in writing.
                 </p>
               </div>
 
@@ -191,7 +190,7 @@ const Terms = () => {
                       <div className="card-body text-center p-4">
                         <i className="fas fa-envelope fa-2x text-primary mb-3"></i>
                         <h5 className="card-title">Email</h5>
-                        <p className="card-text">[support@yourdomain.com]</p>
+                        <p className="card-text">support@microsonicrepair.com</p>
                       </div>
                     </div>
                   </div>
@@ -200,7 +199,7 @@ const Terms = () => {
                       <div className="card-body text-center p-4">
                         <i className="fas fa-phone fa-2x text-primary mb-3"></i>
                         <h5 className="card-title">Phone</h5>
-                        <p className="card-text">[Toll-Free Number]</p>
+                        <p className="card-text">+(1) 888-291-3869</p>
                       </div>
                     </div>
                   </div>
@@ -209,7 +208,7 @@ const Terms = () => {
                       <div className="card-body text-center p-4">
                         <i className="fas fa-map-marker-alt fa-2x text-primary mb-3"></i>
                         <h5 className="card-title">Address</h5>
-                        <p className="card-text">[Business Address]</p>
+                        <p className="card-text">Los Angeles, California United States</p>
                       </div>
                     </div>
                   </div>
