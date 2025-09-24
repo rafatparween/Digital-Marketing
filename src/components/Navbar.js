@@ -36,14 +36,18 @@ function NavBar() {
 
     >
       <Container>
-        <Navbar.Brand href="/" className="d-flex">
+        {/* <Navbar.Brand href="/" className="d-flex">
           <img
             src="https://printassist.vercel.app/sonic.png"
             className="img-fluid logo"
             alt="brand"
             style={{ width: '2000px', height: '1000px' }} // Adjust the values as needed
           />
-        </Navbar.Brand>
+          
+        </Navbar.Brand> */}
+        <Navbar.Brand href="/" className="d-flex align-items-center fw-bold fs-3 text-primary">
+  Micro-Sonic Repair
+</Navbar.Brand>
         <Navbar.Brand href="/" className="d-flex">
         </Navbar.Brand>
         <Navbar.Toggle

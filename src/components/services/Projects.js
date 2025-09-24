@@ -32,7 +32,7 @@ function Services() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath="https://www.digitalauthority.me/wp-content/uploads/2024/04/shutterstock_2262377637-1.jpg"
+              imgPath="https://static.vecteezy.com/system/resources/previews/007/252/480/non_2x/business-people-use-global-internet-connection-technology-and-digital-marketing-free-photo.jpg"
               isBlog={false}
               title="Social Media Engagement"
               description="A platform that helps businesses manage and track social media campaigns across multiple platforms, analyzing performance, audience engagement, and ROI to drive better results."
@@ -59,7 +59,7 @@ function Services() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath="https://bicads.com/blog/wp-content/uploads/2024/02/Linked-article.webp"
+              imgPath="https://static.vecteezy.com/system/resources/previews/006/971/755/non_2x/social-media-and-technology-internet-communication-connection-concept-business-woman-s-hands-is-using-social-media-via-smartphone-with-notification-icon-technology-digital-media-mobile-phone-network-free-photo.jpg"
               isBlog={false}
               title="Ad Campaign Tracker"
               description="Our platform allows businesses to create, track, and optimize paid advertising campaigns. With detailed performance analytics, businesses can fine-tune their campaigns for maximum ROI."
@@ -68,7 +68,7 @@ function Services() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath="https://media.licdn.com/dms/image/D5612AQFCQl2tXDBBDA/article-cover_image-shrink_600_2000/0/1687101803246?e=2147483647&v=beta&t=u2oGdCFQJNWKUYLkK2FI1hhX4GKqs1Zt_d-7PZlDgr8"
+              imgPath="https://static.vecteezy.com/system/resources/previews/005/732/506/non_2x/man-hand-holding-smart-phone-digital-marketing-word-with-icon-business-virtual-screen-free-photo.jpg"
               isBlog={false}
               title="Content Marketing Platform"
               description="A platform designed to help businesses plan, create, and distribute content effectively. Track performance across various channels and fine-tune strategies to maximize audience engagement and conversions."
